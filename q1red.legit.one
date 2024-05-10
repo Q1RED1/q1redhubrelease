@@ -9,8 +9,8 @@ end)
 tool.Parent = game.Players.LocalPlayer.Backpack
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Vamp";
-    Text = "join gg.Vamp";
+    Title = "Q1REDHUB";
+    Text = "enjoy the best lock";
 
 })
 
